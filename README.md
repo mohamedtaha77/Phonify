@@ -161,6 +161,7 @@ phonify/
 
 ## Download APK
 
-You can download the latest APK file from [here](https://drive.google.com/file/d/your-file-id/view?usp=sharing).
+You can download the latest APK file from [here](https://drive.google.com/file/d/1X_FgM-SEwMU9QgBD_yF7DbAYRAkYIt2v/view?usp=drive_link).
+
 
 > **Note:** After downloading, you might need to enable installation from unknown sources on your Android device to install this APK.
