@@ -45,11 +45,11 @@ Phonify is a modern, responsive Flutter shopping application designed for an eng
 
 | شاشة الترحيب          | شاشة تسجيل الدخول        | شاشة إنشاء حساب           | الشاشة الرئيسية         |
 |------------------------|-------------------------|-------------------------|-------------------------|
-| ![welcome_ar1](assets/images/ar_welcome_1.png) | ![signin_ar](assets/images/ar_signin.png) | ![signup_ar](assets/images/ar_signup.png) | ![home_ar](assets/images/ar_home.png) |
+| ![welcome_ar1](assets/images/welcome_ar.jpg) | ![signin_ar](assets/images/login_ar.jpg) | ![signup_ar](assets/images/signup_ar.jpg) | ![home_ar](assets/images/homeTop_ar.jpg) |
 
-| تفاصيل المنتج           | شاشة السلة               | صفحة الدفع               | تأكيد الطلب             |
+| تفاصيل المنتج           | شاشة السلة               | المفضلة               | الشاشة الرئيسية             |
 |------------------------|-------------------------|-------------------------|-------------------------|
-| ![product_detail_ar](assets/images/ar_product_detail.png) | ![cart_ar](assets/images/ar_cart.png) | ![checkout_ar](assets/images/ar_checkout.png) | ![order_confirm_ar](assets/images/ar_order_confirm.png) |
+| ![product_detail_ar](assets/images/productDetialed_ar.jpg) | ![cart_ar](assets/images/cart_ar.jpg) | ![checkout_ar](assets/images/fav_ar.jpg) | ![order_confirm_ar](assets/images/homeProducts_ar.jpg) |
 
 ---
 
