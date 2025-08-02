@@ -106,26 +106,26 @@ Phonify supports both English and Arabic languages, offering full bidirectional 
 phonify/
 ├── android/
 ├── assets/
-│   ├── fonts/
-│   │   └── Suwannaphum-Regular.ttf
-│   ├── images/
-│       └── ... 
-│   └── screenshots/  
-│       └── ... 
+│ ├── fonts/
+│ │ └── Suwannaphum-Regular.ttf
+│ ├── images/
+│ │ └── ...
+│ └── screenshots/
+│ └── ...
 ├── ios/
 ├── lib/
-│   ├── auth/
-│   │   ├── sign_in_screen.dart
-│   │   └── sign_up_screen.dart
-│   ├── home/
-│   │   └── home_screen.dart
-│   ├── l10n/
-│   │   └── app_localizations.dart
-│   ├── providers/
-│   │   └── auth_provider.dart
-│   ├── utils/
-│   │   └── dialog_utils.dart
-│   └── main.dart
+│ ├── auth/
+│ │ ├── sign_in_screen.dart
+│ │ └── sign_up_screen.dart
+│ ├── home/
+│ │ └── home_screen.dart
+│ ├── l10n/
+│ │ └── app_localizations.dart
+│ ├── providers/
+│ │ └── auth_provider.dart
+│ ├── utils/
+│ │ └── dialog_utils.dart
+│ └── main.dart
 ├── test/
 ├── pubspec.yaml
 ├── README.md
