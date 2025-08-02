@@ -12,7 +12,6 @@ Phonify is a modern, responsive Flutter shopping application designed for an eng
 - [Localization](#localization)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ---
 
@@ -132,7 +131,7 @@ phonify/
 ├── README.md
 ├── .gitignore
 └── analysis_options.yaml
-
+```
 
 
 ## Technologies Used
@@ -157,8 +156,4 @@ phonify/
 
 - **Flutter DevTools**  
   Suite of performance and profiling tools for Flutter apps.
-
-  ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
