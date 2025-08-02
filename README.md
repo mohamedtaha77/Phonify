@@ -35,7 +35,7 @@ Phonify is a modern, responsive Flutter shopping application designed for an eng
 
 | Welcome Screen          | Sign In Screen           | Sign Up Screen           | Home Screen             |
 |------------------------|-------------------------|-------------------------|-------------------------|
-| ![welcome_en1](assets/images/en_welcome_1.png) | ![signin_en](assets/images/en_signin.png) | ![signup_en](assets/images/en_signup.png) | ![home_en](assets/images/en_home.png) |
+| ![welcome_en1](assets/images/welcome_en.jpg) | ![signin_en](assets/images/login_en.jpg) | ![signup_en](assets/images/signup_en.jpg) | ![home_en](assets/images/homeTop_en.jpg) |
 
 | Product Detail          | Cart Screen              | Checkout                 | Order Confirmation      |
 |------------------------|-------------------------|--------------------------|-------------------------|
