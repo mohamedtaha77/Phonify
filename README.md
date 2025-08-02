@@ -12,6 +12,7 @@ Phonify is a modern, responsive Flutter shopping application designed for an eng
 - [Localization](#localization)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
+- [Download APK](#download-apk)
 
 ---
 
@@ -157,3 +158,9 @@ phonify/
 - **Flutter DevTools**  
   Suite of performance and profiling tools for Flutter apps.
 
+
+## Download APK
+
+You can download the latest APK file from [here]([https://drive.google.com/your-apk-link](https://drive.google.com/file/d/1X_FgM-SEwMU9QgBD_yF7DbAYRAkYIt2v/view?usp=sharing)).
+
+> **Note:** After downloading, you might need to enable installation from unknown sources on your Android device to install this APK.
